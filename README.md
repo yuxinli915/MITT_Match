@@ -1,4 +1,4 @@
-# MITT_Match
+# MITT Match
 A game built with basic JavaScript. 
 
 ## Instruction
