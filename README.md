@@ -7,3 +7,5 @@ Click a card on the right side to find the correct one that matches the card on 
 You can restart the game anytime by clicking the restart button.
 
 Score shows how many clicks have been performed.
+
+Link is on the right side.
